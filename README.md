@@ -7,5 +7,5 @@
 # Create image
 
  ![my image](images/ami_1.png)
-  ![my image](images/ami_2.png)
+![my image](images/ami_2.png)
 #
